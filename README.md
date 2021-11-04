@@ -1,2 +1,3 @@
-# Space-Invaders-in-Python
+
+Simple Space Invaders in Python using PyGame
  
